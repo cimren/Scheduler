@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Scheduler\Scheduler\Scheduler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Scheduler\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Form1.resources
+C:\Users\user\Desktop\Scheduler\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Properties.Resources.resources
+C:\Users\user\Desktop\Scheduler\Scheduler\Scheduler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Scheduler\Scheduler\Scheduler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Scheduler\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+C:\Users\user\Desktop\Scheduler\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+C:\Users\user\Desktop\Scheduler\Scheduler\Scheduler\obj\x86\Debug\Scheduler.exe
+C:\Users\user\Desktop\Scheduler\Scheduler\Scheduler\obj\x86\Debug\Scheduler.pdb
+C:\Users\user\Desktop\Scheduler\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Form2.resources
